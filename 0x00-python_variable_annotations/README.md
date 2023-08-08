@@ -5,6 +5,7 @@
 For this project, we expect you to look at this concept:
 
 * [Advanced Python](https://github.com/Chukwukaoranile/my_docs/blob/main/alx_concepts/python-aariable_annotations.md)
+
 **Resources**
 
 _Read or watch:_
