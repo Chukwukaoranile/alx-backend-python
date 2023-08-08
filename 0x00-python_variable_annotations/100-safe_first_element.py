@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-""" 
-Augment the following code with the correct duck-typed annotations:
-""
+""" Duck typing - first element of a sequence """
 from typing import Any, Union, Sequence
 
 
